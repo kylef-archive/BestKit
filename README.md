@@ -33,9 +33,21 @@ let bestKey = dictionary.bestKey
 let bestValue = dictionary.bestValue
 ```
 
+## Best Date
+
+```swift
+let bestDate = Date.best
+```
+
 ## Best Set
 
 ```swift
 let set = Set([1, 2, 3])
 let bestElement = set.best
+```
+
+## Best Notification Center
+
+```swift
+let center = NotificationCenter.best
 ```
