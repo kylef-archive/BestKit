@@ -25,6 +25,14 @@ let array = [1, 2, 3]
 let bestElement = array.best
 ```
 
+## Best Dictionary
+
+```swift
+let dictionary = ["Hello": "World"]
+let bestKey = dictionary.bestKey
+let bestValue = dictionary.bestValue
+```
+
 ## Best Set
 
 ```swift
