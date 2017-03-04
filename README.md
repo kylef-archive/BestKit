@@ -2,6 +2,22 @@
 
 BestKit makes the Best Swift.
 
+## Best String
+
+### Best Character
+
+```swift
+let string = "Hello World"
+let bestCharacter = string.bestCharacter
+```
+
+### Best Word
+
+```swift
+let string = "Hello World"
+let bestWord = string.bestWord
+```
+
 ## Best Array
 
 ```swift
