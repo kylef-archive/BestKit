@@ -63,3 +63,9 @@ let defaults = UserDefaults.best
 ```swift
 let url = URL.best
 ```
+
+## Best URL Session
+
+```swift
+let session = URLSession.best
+```
