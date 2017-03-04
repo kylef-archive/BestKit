@@ -69,3 +69,9 @@ let url = URL.best
 ```swift
 let session = URLSession.best
 ```
+
+## Best URL Request
+
+```swift
+let request = URLRequest.best
+```
