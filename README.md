@@ -51,3 +51,9 @@ let bestElement = set.best
 ```swift
 let center = NotificationCenter.best
 ```
+
+## Best User Defaults
+
+```swift
+let defaults = UserDefaults.best
+```
