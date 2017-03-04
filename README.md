@@ -57,3 +57,9 @@ let center = NotificationCenter.best
 ```swift
 let defaults = UserDefaults.best
 ```
+
+## Best URL
+
+```swift
+let url = URL.best
+```
